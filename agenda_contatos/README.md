@@ -1,6 +1,6 @@
-# agenda_contatos
+# agendacontatos
 
-App de agenda de Contatos
+A new Flutter application.
 
 ## Getting Started
 
